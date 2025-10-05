@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 
-![Autoignition of Douglas-fir branch](https://github.com/user-attachments/assets/58460849-a295-4829-ace6-a5e08c07120e)
+[Autoignition of Douglas-fir branch](https://github.com/user-attachments/assets/41105954-2100-4034-a663-31b9c658619c)
 
-
-
-<!--
 **javaldivia/javaldivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
