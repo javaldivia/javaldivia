@@ -7,5 +7,16 @@ Hi there 👋
   <sub><em>Demonstration of autoignition dynamics of a Douglas-fir branch under (high) convective heating.</em></sub>
 </p>
 
-Ph.D. candidate in Fire Protection Engineering focusing on ignition phenomena, heat transfer, and fire dynamics.
+---
+
+### 🔬 About
+Research focuses on **ignition mechanisms**, **heat transfer**, and **thermal decomposition** of wildland fuels under controlled and applied fire environments.  
+Work involves both **experimental characterization** and **modeling**-from **thermal radiation studies in cone calorimeter tests** to **numerical simulations and analytical formulations** describing fuel heating and ignition behavior.
+
+---
+
+### 📂 Selected Repositories
+- [**convective_ignition**](https://github.com/javaldivia/convective_ignition): Experimental and numerical analysis of convective ignition in vegetative fuels.  
+- [**Cone_Calorimeter_View_Factor**](https://github.com/javaldivia/Cone_Calorimeter_View_Factor): View factors for radiative heating in cone calorimeter configurations.  
+- [**Cone_Calorimeter_View_Factor_Inclination**](https://github.com/javaldivia/Cone_Calorimeter_View_Factor_Inclination): Extended view factor modeling including sample inclination effects and Monte Carlo simulations.
 
