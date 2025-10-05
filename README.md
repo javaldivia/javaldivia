@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 
+![Autoignition of Douglas-fir branch](https://github.com/user-attachments/assets/58460849-a295-4829-ace6-a5e08c07120e)
 
-https://github.com/user-attachments/assets/58460849-a295-4829-ace6-a5e08c07120e
 
 
 <!--
