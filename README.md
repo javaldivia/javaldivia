@@ -1,5 +1,9 @@
 ## Hi there 👋
-![_Ignition](https://github.com/user-attachments/assets/61218a07-04a2-4e02-a7ee-9f4ca27322c4)
+
+
+
+https://github.com/user-attachments/assets/58460849-a295-4829-ace6-a5e08c07120e
+
 
 <!--
 **javaldivia/javaldivia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
