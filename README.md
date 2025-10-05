@@ -1,23 +1,11 @@
-<script>
-window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
-</script>
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" defer></script>
-
 Hi there 👋
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ad3376ca-1833-4f22-8778-c0d3fabbae2a" width="700" alt="Ignition animation">
 </p>
-<p align="center" style="margin-top:-10px;">
-  <sub><em>
-  Gas-phase ignition of a Douglas-fir branch under (high) convective heating  
-  (the hot gases are coming from the bottom; \(
-  T_{gas}\approx400~^\circ\text{C}
-  \) and \(
-  v_{gas}\approx2~\text{m/s}
-  \)).
-  </em></sub>
-</p>
+
+###### Glowing to flaming transition and gas-phase ignition of a Douglas-fir branch under (high) convective heating (the hot gases are coming from the bottom; $T_{gas}\approx 400~^\circ\mathrm{C}$ and $v_{gas}\approx 2~\mathrm{m/s}$.)
+
 
 ---
 
