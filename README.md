@@ -4,7 +4,7 @@ Hi there 👋
   <img src="https://github.com/user-attachments/assets/ad3376ca-1833-4f22-8778-c0d3fabbae2a" width="700" alt="Ignition animation">
 </p>
 <p align="center" style="margin-top:-10px;">
-  <sub><em>Demonstration of autoignition dynamics of a Douglas-fir branch under (high) convective heating.</em></sub>
+  <sub><em>Gas-phase ignition of a Douglas-fir branch under (high) convective heating (the hot gases are coming from the bottom; $T_{gas}\approx 400~$°C and $v_{gas}\approx 2~$m/s).</em></sub>
 </p>
 
 ---
